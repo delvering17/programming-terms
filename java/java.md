@@ -15,4 +15,12 @@ List<Integer> list = new ArrayList<>();
 list.add(i); // int -> Integer
 
 ```
+---
+### 시그니처 Signature
+- 메서드명과 파라미터 순서, 타입, 개수를 의미
 
+```java
+public String someMethod(String str) {}
+public String someMethod(String str, int num) {}
+// someMethod의 두 메서드는 서로 다른 시그니처다.
+```
