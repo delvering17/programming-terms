@@ -4,3 +4,7 @@
 - Ref: https://ko.wikipedia.org/wiki/%EC%BD%94%EB%93%9C_%EC%8A%A4%EB%A9%9C
   
 ---
+### 리팩터링(Refactoring)
+- 기능을 변경하지 않고 코드를 변경하는 것
+
+---
